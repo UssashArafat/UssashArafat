@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning System on Chip (SoC) design.
 - 💬 Ask me about Digital Design
 - 📫 Reach me at ussash_arafat@yahoo.com
-- ⚡ Fun fact: I always finish what I start
+- ⚡ Fun fact: I always finish what I started
 
 
 ### Stay Awesome!!!
