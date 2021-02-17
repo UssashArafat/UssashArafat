@@ -6,8 +6,7 @@
 - 🔭 I’m currently working on building Predator Deterrent Device.
 - 🌱 I’m currently learning System on Chip (SoC) design.
 - 💬 Ask me about Digital Design
-- 📫 How to reach me: ussash_arafat@yahoo.com
-- 😄 Pronouns: He/His
+- 📫 Reach me at ussash_arafat@yahoo.com
 - ⚡ Fun fact: I always finish what I start
 
 
